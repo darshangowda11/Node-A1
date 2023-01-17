@@ -1,0 +1,1 @@
+let string = 'this is just a write file content';console.log(`I just appended some extra data into write.js`)
